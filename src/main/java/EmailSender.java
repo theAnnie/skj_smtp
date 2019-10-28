@@ -10,7 +10,6 @@ import javax.mail.internet.MimeMessage;
 
 public class EmailSender {
     public static void main(String[] args) {
-        //link: https://mailtrap.io
         String to = "test@example.com";
         String from = "from@example.com";
 
