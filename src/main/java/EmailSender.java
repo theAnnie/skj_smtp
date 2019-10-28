@@ -13,8 +13,8 @@ public class EmailSender {
         String to = "test@example.com";
         String from = "from@example.com";
 
-        final String username = "7743ff01fba2a8"; //każdy ma swoje ofc
-        final String password = "44791d1c598172"; //same here
+        final String username = "XXXXX"; //każdy ma swoje ofc
+        final String password = "YYYYY"; //same here
 
         String host = "smtp.mailtrap.io";
 
